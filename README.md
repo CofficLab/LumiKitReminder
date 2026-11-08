@@ -1,5 +1,7 @@
 # LumiKitReminder
 
+📖 English | [中文版](README_zh.md)
+
 Shared break-reminder infrastructure for Lumi and its sibling applications.
 
 The package exposes the `KitReminder` product and module. It is a reusable kit,
