@@ -26,7 +26,7 @@ Lumi 及其兄弟应用共享的休息提醒基础设施。
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/CofficLab/LumiKitReminder.git", from: "1.0.0")
+    .package(url: "https://github.com/lumi-softworks/LumiKitReminder.git", from: "1.0.0")
 ]
 ```
 
